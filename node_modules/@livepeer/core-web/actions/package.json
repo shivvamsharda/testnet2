@@ -1,0 +1,4 @@
+{
+  "main": "dist/livepeer-core-web-actions.cjs.js",
+  "module": "dist/livepeer-core-web-actions.esm.js"
+}

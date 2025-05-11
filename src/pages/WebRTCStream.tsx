@@ -1,0 +1,1 @@
+export default function WebRTCStream() { return <div>WebRTC Stream Page</div>; }
