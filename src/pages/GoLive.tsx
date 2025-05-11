@@ -1,1 +1,0 @@
-export default function GoLive() { return <div>Go Live Page</div>; }
